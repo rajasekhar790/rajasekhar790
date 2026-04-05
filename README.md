@@ -61,7 +61,7 @@ With over a decade of experience in software engineering, I specialize in transf
 ## 🤝 Let's Connect
 * 💼 **LinkedIn:** [rajasekhar-nakkala](https://www.linkedin.com/in/rajasekhar-nakkala/)
 * 📧 **Email:** [rajasekhar.aieng@gmail.com]
-* ✍️ **Blog:** [YOUR_MEDIUM_OR_SUBSTACK_URL]
+* ✍️ **Blog:** [https://rajasekhar790.github.io/]
 
 <p align="center">
   <i>"I don't just prompt models; I architect systems that think."</i>
