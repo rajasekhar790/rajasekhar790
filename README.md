@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Rajasekhar+Nakkala;Senior+AI+Architect+%7C+GenAI+%26+RAG;10%2B+Years+of+Engineering+Excellence;Building+Agentic+Systems+for+Healthcare" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Rajasekhar+Nakkala;Senior+AI+Architect+%7C+GenAI+%26+RAG;12%2B+Years+of+Engineering+Excellence;Building+Agentic+Systems+for+Healthcare" />
 
 <p>
   <a href="https://www.linkedin.com/in/rajasekhar-nakkala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
