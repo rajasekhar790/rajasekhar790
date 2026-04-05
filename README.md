@@ -48,33 +48,8 @@ With over a decade of experience in software engineering, I specialize in transf
 * **Innovation:** Integrated **Agentic RAG** using LangGraph to handle conditional logic in healthcare plans.
 * **Impact:** Automated member/provider inquiries, reducing manual support overhead by leveraging grounded GenAI responses.
 
----
 
-## 📈 Engineering Impact & Consistency
 
-<div align="center">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-500%2B-7aa2f7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streak-26%20Weeks-bb9af7?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&mode=weekly" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🧪 Current Research & Open Source
 * **Agentic Eval:** Developing frameworks for evaluating non-deterministic agentic paths.
